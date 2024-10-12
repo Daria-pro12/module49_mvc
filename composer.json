@@ -1,0 +1,17 @@
+{
+    "name": "mazitov/mvc-php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app\\"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daria-pro12",
+            "email": "Dashun4ik1986@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
